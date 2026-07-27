@@ -48,35 +48,33 @@ skills:
     items:
       - AWS
       - Cloudflare
+      - Vercel
       - Docker
-      - Docker Compose
-      - GCP
-      - Grafana
-      - GitHub Actions
       - Kubernetes
+      - Terraform
+      - GitHub Actions
+      - Grafana
+      - Prometheus
       - Linux
       - Loki
       - Nginx
-      - Prometheus
       - Tailscale
-      - Terraform
-      - Vercel
   - category: Web & Backend
     items:
       - Astro
-      - FastAPI
-      - Flask
-      - MongoDB
       - Next.js
       - Node.js
-      - PostgreSQL
-      - Python
-      - PyQt5
       - React
-      - Redis
-      - Tailwind
       - TypeScript
       - Vite
+      - Python
+      - PyQt5
+      - FastAPI
+      - Flask
+      - Redis
+      - MongoDB
+      - PostgreSQL
+      - Tailwind
   - category: ML & Data
     items:
       - DuckDB
@@ -90,6 +88,12 @@ skills:
       - TensorFlow
       - Transformers
     learning: true
-experience: []
+experience:
+  - role: Fresher
+    company: Open to full-time roles
+    location: Pune, IN · Remote-friendly
+    start: 2025-06
+    end: Present
+    summary: Computer Engineering graduate focused on DevOps and full-stack delivery — containers, CI/CD, observability, APIs, and web apps. Building production-shaped systems in a personal lab and shipping public work across infrastructure and application layers.
 certifications: []
 ---
