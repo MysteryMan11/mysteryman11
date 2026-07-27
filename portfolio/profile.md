@@ -6,7 +6,7 @@ bio: I build the load-bearing parts of software — deploy pipelines, service gr
 bioLong:
   - "I'm a platform-leaning engineer who spends most days between the terminal and the whiteboard. My favourite work sits at the seam between infrastructure and product: shipping the pipelines, service graphs, and delivering tooling that quietly hold everything else up."
   - The through-line is treating reliability as a design problem, not a support ticket. I care about small feedback loops, boring dependencies, and interfaces that stay honest under load — sharpened by running a personal homelab alongside the project work.
-  - This portfolio is one of those shipped systems: an Astro static site with content-as-code, sync from remote sources, CI, and GitHub Pages deploy. Outside of shipping, I follow football and keep the homelab evolving as a place to prove my ideas before they leave the sandbox.
+  - "This portfolio is one of those shipped systems: an Astro static site with content-as-code, sync from remote sources, CI, and GitHub Pages deploy. Outside of shipping, I follow football and keep the homelab evolving as a place to prove my ideas before they leave the sandbox."
 location: Pune, IN
 yearsExperience: 1
 education: B.E., Computer Engineering — ICEM Pune
