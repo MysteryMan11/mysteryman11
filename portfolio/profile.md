@@ -1,5 +1,5 @@
 ---
-initials: Ab. K.
+initials: AK
 fullName: Abhijay Kshirsagar
 tagline: Ship reliable systems. Then ship the sites on top.
 bio: I build the load-bearing parts of software — deploy pipelines, service graphs, and the static delivery paths that keep products reachable.
