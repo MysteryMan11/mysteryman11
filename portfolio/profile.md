@@ -10,7 +10,7 @@ bioLong:
 location: Pune, IN
 yearsExperience: 1
 education: B.E., Computer Engineering — ICEM Pune
-email: undergrad7781@gmail.com
+email: axiomknox@gmail.com
 avatar: grad-avatar
 what:
   - deliverables:
@@ -34,13 +34,13 @@ what:
     label: ML / MLOps
     learning: true
 links:
-  - href: https://github.com/MysteryMan11
+  - href: https://github.com/AxiomKnox
     icon: github
     label: GitHub
   - href: https://linkedin.com/in/abks-tech/
     icon: linkedin
     label: LinkedIn
-  - href: mailto:undergrad7781@gmail.com
+  - href: mailto:axiomknox@gmail.com
     icon: gmail
     label: Email
 skills:
